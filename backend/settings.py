@@ -96,6 +96,7 @@ STORAGES = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://topoapp-react-versel-4unk.vercel.app",
     # Add your Vercel frontend URL here after deployment
 ]
 
